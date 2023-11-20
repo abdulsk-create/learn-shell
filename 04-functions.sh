@@ -4,4 +4,4 @@ greeting() {
   echo This is our starting day of Training Session
 }
 
-#greeting
+greeting

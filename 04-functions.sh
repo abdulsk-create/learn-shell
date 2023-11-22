@@ -5,3 +5,5 @@ greeting() {
 }
 
 greeting
+
+echo function exit status - $?

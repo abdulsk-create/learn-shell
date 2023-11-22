@@ -8,3 +8,11 @@ greeting() {
 greeting
 
 echo -e "\e[34m function exit status - $?\e[0m"
+
+input() {
+  echo first arguments - $1
+  echo second arguments - $2
+  echo no of arguments - $*
+  echo all arguments - $#
+}
+input abc 1234

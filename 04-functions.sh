@@ -6,4 +6,4 @@ greeting() {
 
 greeting
 
-echo function exit status - $?
+echo -e "\e32m function exit status - $? \e[0m]"

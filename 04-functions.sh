@@ -15,4 +15,4 @@ input() {
   echo no of arguments - $*
   echo all arguments - $#
 }
-input abc 1234
+input abc 1234 abdul

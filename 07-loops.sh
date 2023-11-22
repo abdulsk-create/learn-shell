@@ -5,3 +5,8 @@ while [ $a -gt 0 ]; do
   a=$(($a-1))
   #break
 done
+
+# Based on inputs
+for comp in frontend mongodb catalogue ; do
+  ehco installing component - $comp
+done

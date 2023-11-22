@@ -8,5 +8,5 @@ done
 
 # Based on inputs
 for comp in frontend mongodb catalogue ; do
-  ehco installing component - $comp
+  echo installing component - $comp
 done
